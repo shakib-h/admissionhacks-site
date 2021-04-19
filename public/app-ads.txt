@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-facebook.com, 2700085160282149, DIRECT, c3e20eee3f780d68
-=======
-google.com, pub-1168036738005034, DIRECT, f08c47fec0942fa0
 facebook.com, 2700085160282149, RESELLER, c3e20eee3f780d68
->>>>>>> 79f7e8b314bfcf56a066b49392c9dc05e70be739
+google.com, pub-1168036738005034, DIRECT, f08c47fec0942fa0
